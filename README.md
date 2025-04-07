@@ -1,6 +1,6 @@
 # MASTERMOSH.AI - Multilingual Voice Assistant
 
-ChattyBot is a lightweight, real-time multilingual voice assistant web application built using Flask, OpenAI's Whisper, OpenRouter's Gemma 3.4B model, and gTTS. It allows users to interact in English or Hindi through voice, delivering smart AI-generated replies with natural voice responses. The system features auto language detection, silence-based recording, efficient audio processing, and automatic file cleanup for a smooth and deployable experience.
+MASTERMOSH.AI is a lightweight, real-time multilingual voice assistant web application built using Flask, OpenAI's Whisper, OpenRouter's Gemma 3.4B model, and gTTS. It allows users to interact in English or Hindi through voice, delivering smart AI-generated replies with natural voice responses. The system features auto language detection, silence-based recording, efficient audio processing, and automatic file cleanup for a smooth and deployable experience.
 
 ---
 
